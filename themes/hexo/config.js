@@ -1,7 +1,13 @@
 const CONFIG = {
   HEXO_HOME_BANNER_ENABLE: true,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
-  HEXO_HOME_BANNER_GREETINGS: [ ], // 首页大图标语文字
+  HEXO_HOME_BANNER_GREETINGS: [胆小的机器控制大师可以在非常规矩阵中看到极值，
+可以在午后氤氲中计算机器所需的积分方程，
+却无法知晓，爱情究竟是否已经降临。
+离我远点，离我远点，从早到晚我眼前都是拉普拉斯数子，
+从黑夜到黎明，又是单位向量将我层层包围，
+原像啊，请靠近我，请靠近我，
+因为只有将你缩小才能让我等到将挚爱拥于怀中的时刻], // 首页大图标语文字
   HEXO_HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   // 已知未修复bug, 在移动端开启true后会加载不出图片； 暂时建议设置为false。
   HEXO_HOME_NAV_BACKGROUND_IMG_FIXED: false, // 首页背景图滚动时是否固定，true 则滚动时图片不懂动； false则随鼠标滚动 ;
