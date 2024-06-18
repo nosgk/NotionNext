@@ -8,10 +8,10 @@ const Style = () => {
   return (<style jsx global>{`
     // 底色
     body{
-        background-color: #f5f5f5
+        background-color: #4A5CBA
     }
     .dark body{
-        background-color: black;
+        background-color: #11212D;
     }
   
     /*  菜单下划线动画 */
